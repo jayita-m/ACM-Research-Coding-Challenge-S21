@@ -25,4 +25,16 @@ Reading `Genome.gb` file:
 
 
 
+## References
 
+  1. https://github.com/paulstothard/cgview/blob/master/src/main/java/ca/ualberta/stothard/cgview/CgviewIO.java 
+     For ImageIO
+  
+  2. https://paulstothard.github.io/cgview/apidocs/ca/ualberta/stothard/cgview/Cgview.html
+     For overall concept
+  
+  3. https://docs.oracle.com/javase/8/docs/api/javax/imageio/package-summary.html
+     For ImageIO
+  
+  4. https://github.com/paulstothard/cgview/blob/master/src/main/java/ca/ualberta/stothard/cgview/CgviewFactoryTab.java
+     For reading and understanding `Genome.gb`
